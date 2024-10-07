@@ -1,0 +1,19 @@
+The Node class serves as the building block for linked lists. It represents a single element in the list and holds two key pieces of information:
+
+Data: The data associated with the node.
+Next: A reference to the next node in the list.
+By creating a Node class, you define the structure of each element in the linked list. This allows you to:
+
+Store data: Each node can hold a specific value or object.
+Link nodes together: The next reference in each node connects it to the next node in the list, forming the chain-like structure.
+Traverse the list: You can start at the head node and follow the next references to visit each node in the list.
+Without a Node class, you wouldn't have a way to represent individual elements in the linked list and connect them together. Therefore, creating a Node class is a fundamental step in implementing a linked list.
+
+we should have to crate a Node class 
+always to use a link list
+
+
+
+
+
+
