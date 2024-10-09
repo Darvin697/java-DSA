@@ -53,8 +53,9 @@ public class DuplicateLink {
             }
             current.next = another;
 
-            if (another == tail) {
+            if (another == tail && current.data == another.data) {
                 tail = current;
+                tail.next = null;
                 
             }
             current = another;
