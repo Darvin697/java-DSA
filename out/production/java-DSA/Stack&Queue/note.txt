@@ -1,0 +1,20 @@
+stack and Queue 
+
+stack is like a cd stand structure where we add like first data become last and last coming data becomes first
+last in first out is stack
+
+here are two operations push and pop 
+
+Top is the last value added 
+
+push - push is the operation where we add data to a stack 
+pop - pop is the operation where we take a data from stack
+
+
+Queue 
+queue is like the original queue where the first which come it gets the first
+first in first out is queue
+
+operations are enqueue and deqeue
+enqueue is where we add data 
+deqeue where we take values
